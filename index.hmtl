@@ -49,10 +49,23 @@
         </list>
 
     </p>
+    <p>
     <h1>And other todo stuff </h1>
     <list>
         <li>Add CSS here</li>
     </list>
+    </p>
+
+    <p>
+    <h1>Video list </h1>
+    <list>
+        <li>Vid list  https://www.youtube.com/watch?v=NX0iaeMzHyI </li>
+    </list>
+    </p>
+
+
+
+
 
 
 
