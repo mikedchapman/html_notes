@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>My random thoughts and ideas laid out in markup</title>
+    Topics for closer study
+
+    <meta name="description" content="Rough Notes">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <h1>Topics</h1>
+    <p>
+        Subjects to read and characterise (Strengths / Weakknesses) follow and Research
+        <list>
+            <li>Elastic Search</li>
+            <li>KAFKA </li>
+            <li>Apache LogStash </li>
+            <li>Apache Spark </li>
+            <li>Apache Fink </li>
+            <li>more... </li>
+        </list>
+
+    </p>
+    <p>
+
+        Non technical
+        <list>
+            <li>breakdown - Business terms </li>
+            <li>need a better grip on CSC management structures </li>
+        </list>
+    </p>
+    <p>
+
+        Longer study languages
+        <list>
+            <li>Python</li> go deeper into language
+            <li>R </li> More on true data science and analysis
+            <li>js</li> Improve a little
+        </list>
+
+    </p>
+    <h1>And other todo stuff </h1>
+    <list>
+        <li>Add CSS here</li>
+    </list>
+
+
+
+    <script src="" async defer></script>
+</body>
+
+</html>
